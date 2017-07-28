@@ -14,7 +14,7 @@ You're going to need:
 
 ***
 
-First of all, edit the `config.json` file to configure the bot.
+First of all, edit the `config.js` file to configure the bot.
 Replace all the example values with the bot token, prefix, name and description
 
 Second, run the startup files. If you are running Windows (`bootbot.bat`) and Mac or Linux (`botbi.sh`)
