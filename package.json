@@ -1,0 +1,27 @@
+{
+  "name": "eggrbot",
+  "version": "1.0.0",
+  "description": "chatbot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nova54517/eggrbot.git"
+  },
+  "dependecies": {
+   "discord.js":"12.0.0"
+ }
+  "keywords": [
+    "chatbot",
+    "nodejs",
+    "discord"
+  ],
+  "author": "nekmit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nova54517/eggrbot/issues"
+  },
+  "homepage": "https://github.com/Nova54517/eggrbot#readme"
+}
